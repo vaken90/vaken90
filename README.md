@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vaken90
-- 👀 I’m interested in fullstack devolopment
+- 👀 I’m interested in fullstack dev
 - 🌱 I’m currently learning angular and .net 
 - 💞️ I’m looking to collaborate on create web app
 - 📫 
