@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vaken90
-- 👀 I’m interested in fullstack dev
-- 🌱 I’m currently learning angular and .net 
-- 💞️ I’m looking to collaborate on create web app
+- 👀 I’m interested in c#, wpf, sql
+- 🌱 I’m currently work on .net 
+- 💞️ I’m looking to collaborate to develop nice software
 
 
 <!---
